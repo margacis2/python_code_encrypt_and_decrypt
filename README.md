@@ -14,4 +14,6 @@ A Python script for encoding and decoding messages using UTF-8.
 ## Contact
 
 - **Name:** Tamilselvan
-- 
+- **Instagram:** [@margacis2](https://www.instagram.com/margcis2)
+- **Twitter:** [@margacis2](https://twitter.com/margacis2)
+
